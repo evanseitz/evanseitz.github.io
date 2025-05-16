@@ -6,6 +6,26 @@
     <description>Recent content on Evan Seitz</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://evanseitz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://evanseitz.github.io/about/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://evanseitz.github.io/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Evan Seitz — a computational biologist working at the interface of machine learning and genomics. My research focuses on model interpretability, particularly using deep learning to understand how DNA sequence encodes regulatory function.&lt;/p&gt;
+&lt;p&gt;I develop methods like &lt;a href=&#34;https://github.com/evanseitz/seam-nn&#34;&gt;SEAM&lt;/a&gt; and &lt;a href=&#34;https://github.com/evanseitz/squid-nn&#34;&gt;SQUID&lt;/a&gt; to uncover what these models are actually learning, from transcriptional regulation to the mechanistic effects of mutations. SEAM was recently presented at the &lt;a href=&#34;https://openreview.net/forum?id=PtjMeyHcTt&#34;&gt;ICLR GEM Workshop&lt;/a&gt;, and SQUID was published in &lt;a href=&#34;https://www.nature.com/articles/s42256-024-00851-5&#34;&gt;&lt;em&gt;Nature Machine Intelligence&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SEAM: Behind the Paper</title>
+      <link>https://evanseitz.github.io/posts/seam-behind-the-paper/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://evanseitz.github.io/posts/seam-behind-the-paper/</guid>
+      <description>&lt;p&gt;image: &amp;ldquo;uploads/seam_logo_light.png&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“Coming soon: reflections on the method behind SEAM, what surprised me, and what I’d do next.”&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;This post will explore some of the insights and design decisions that went into developing &lt;a href=&#34;https://github.com/evanseitz/seam-nn&#34;&gt;SEAM&lt;/a&gt; — an interpretability framework for understanding how mutations reshape regulatory mechanisms in genomic deep learning models.&lt;/p&gt;
+&lt;p&gt;For now, you can read more about the method &lt;a href=&#34;https://github.com/evanseitz/seam-nn&#34;&gt;on GitHub&lt;/a&gt; or check out the &lt;a href=&#34;https://openreview.net/forum?id=PtjMeyHcTt&#34;&gt;ICLR GEM Workshop abstract&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

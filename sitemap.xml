@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://evanseitz.github.io/categories/</loc>
+    <loc>https://evanseitz.github.io/about/</loc>
+    <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://evanseitz.github.io/</loc>
+    <lastmod>2025-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evanseitz.github.io/categories/</loc>
+    <lastmod>2025-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evanseitz.github.io/tags/genomics/</loc>
+    <lastmod>2025-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evanseitz.github.io/tags/interpretability/</loc>
+    <lastmod>2025-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evanseitz.github.io/categories/methods/</loc>
+    <lastmod>2025-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evanseitz.github.io/posts/</loc>
+    <lastmod>2025-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evanseitz.github.io/tags/seam/</loc>
+    <lastmod>2025-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evanseitz.github.io/posts/seam-behind-the-paper/</loc>
+    <lastmod>2025-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://evanseitz.github.io/tags/</loc>
+    <lastmod>2025-05-15T00:00:00+00:00</lastmod>
   </url>
 </urlset>

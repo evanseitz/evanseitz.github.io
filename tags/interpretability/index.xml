@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Interpretability on Evan Seitz</title>
+    <link>https://evanseitz.github.io/tags/interpretability/</link>
+    <description>Recent content in Interpretability on Evan Seitz</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://evanseitz.github.io/tags/interpretability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SEAM: Behind the Paper</title>
+      <link>https://evanseitz.github.io/posts/seam-behind-the-paper/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://evanseitz.github.io/posts/seam-behind-the-paper/</guid>
+      <description>&lt;p&gt;image: &amp;ldquo;uploads/seam_logo_light.png&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“Coming soon: reflections on the method behind SEAM, what surprised me, and what I’d do next.”&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;This post will explore some of the insights and design decisions that went into developing &lt;a href=&#34;https://github.com/evanseitz/seam-nn&#34;&gt;SEAM&lt;/a&gt; — an interpretability framework for understanding how mutations reshape regulatory mechanisms in genomic deep learning models.&lt;/p&gt;
+&lt;p&gt;For now, you can read more about the method &lt;a href=&#34;https://github.com/evanseitz/seam-nn&#34;&gt;on GitHub&lt;/a&gt; or check out the &lt;a href=&#34;https://openreview.net/forum?id=PtjMeyHcTt&#34;&gt;ICLR GEM Workshop abstract&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
