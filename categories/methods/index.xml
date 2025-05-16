@@ -13,8 +13,9 @@
       <link>https://evanseitz.github.io/posts/seam-behind-the-paper/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
       <guid>https://evanseitz.github.io/posts/seam-behind-the-paper/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;“Coming soon: reflections on the method behind SEAM, what surprised me, and what I’d do next.”&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;SEAM logo&#34; loading=&#34;lazy&#34; src=&#34;https://evanseitz.github.io/uploads/seam_logo_light.png&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Coming soon&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;This post will explore some of the insights and design decisions that went into developing &lt;a href=&#34;https://github.com/evanseitz/seam-nn&#34;&gt;SEAM&lt;/a&gt; — an interpretability framework for understanding how mutations reshape regulatory mechanisms in genomic deep learning models.&lt;/p&gt;
 &lt;p&gt;For now, you can read more about the method &lt;a href=&#34;https://github.com/evanseitz/seam-nn&#34;&gt;on GitHub&lt;/a&gt; or check out the &lt;a href=&#34;https://openreview.net/forum?id=PtjMeyHcTt&#34;&gt;ICLR GEM Workshop abstract&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
